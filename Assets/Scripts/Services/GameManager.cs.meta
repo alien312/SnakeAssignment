@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 48c8fc28b06f1aa4387f2ce971267411
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameSettings: {instanceID: 0}
+  - SnakePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
